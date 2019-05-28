@@ -38,7 +38,7 @@ public class EmpiricalStudy {
         for (int i = 0; i < array4.length; i++) {
             array4[i] = rand.nextInt(100) + 1;
 
-
+ // my change
         }
         Sort.quickSort(array4);
         System.out.println("Sorting last for:");
